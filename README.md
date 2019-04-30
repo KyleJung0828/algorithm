@@ -1,1 +1,1 @@
-# coding_tests
+# algorithms
